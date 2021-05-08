@@ -7,6 +7,7 @@
       <font-awesome-icon :icon="['fas', 'square']" />
       <font-awesome-icon :icon="['far', 'square']" />
       <font-awesome-icon :icon="['fab', 'accessible-icon']" />
+      <font-awesome-icon :icon="['fas', 'ad']" />
     </div>
   </div>
 </template>

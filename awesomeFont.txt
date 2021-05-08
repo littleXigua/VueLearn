@@ -1,5 +1,8 @@
 https://www.hangge.com/blog/cache/detail_2104.html
 
+https://fontawesome.com/icons?d=gallery&p=2&m=free
+
+
 
 npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
