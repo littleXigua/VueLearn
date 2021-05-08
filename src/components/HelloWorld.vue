@@ -9,6 +9,28 @@
       <font-awesome-icon :icon="['fab', 'accessible-icon']" />
       <font-awesome-icon :icon="['fas', 'ad']" />
     </div>
+    <div>
+      <font-awesome-icon icon="chess-knight" />
+      <font-awesome-icon icon="chess-knight" size="xs" />
+      <font-awesome-icon icon="chess-knight" size="lg" />
+      <font-awesome-icon icon="chess-knight" size="2x" />
+    </div>
+    <div>
+      <font-awesome-icon icon="home" fixed-width /> home <br>
+      <font-awesome-icon icon="child" fixed-width /> help <br>
+      <font-awesome-icon icon="cog" fixed-width /> settings <br>
+    </div>
+    <div>
+      <font-awesome-icon icon="arrow-circle-down" spin />
+    </div>
+    <div>
+      <font-awesome-icon icon="clipboard-list" size="2x" />
+      welcome to hangge.com welcome to hangge.com
+    </div>
+    <div>
+      <font-awesome-icon icon="clipboard-list" size="2x" pll="left" />
+      welcome to hangge.com welcome to hangge.com
+    </div>
   </div>
 </template>
 
